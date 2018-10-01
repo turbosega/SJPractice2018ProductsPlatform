@@ -1,5 +1,3 @@
-using System;
-using System.Configuration;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 
@@ -16,15 +14,15 @@ namespace DAL
         {
         }
 
-        protected override void OnModelCreating(ModelBuilder modelbBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //default delete behaviour is cascade which is not wanted
-            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
+            /*foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
             {
                 relationship.DeleteBehavior = DeleteBehavior.Restrict;
-            }
+            }*/
 
-            base.OnModelCreating(modelbBuilder);
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
