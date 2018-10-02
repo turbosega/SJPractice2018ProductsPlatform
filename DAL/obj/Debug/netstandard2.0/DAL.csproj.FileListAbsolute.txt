@@ -1,0 +1,4 @@
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs

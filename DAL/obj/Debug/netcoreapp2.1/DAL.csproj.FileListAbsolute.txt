@@ -1,0 +1,11 @@
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.json
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.dev.json
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+D:\OrganizedChaos\WORKSPACE\PROJECTS\CURRENT\SJPractice2018\SJPractice2018ProductsPlatform\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
