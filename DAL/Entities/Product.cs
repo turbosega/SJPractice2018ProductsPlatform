@@ -1,14 +1,16 @@
 using System;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAL.Entities 
 {
     public class Product
     {
         [Key]
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Description { get; set; }
+        public int ProductId { get; set; }
+        public string ProductName { get; set; }
+        public int ProductQuantity { get; set; }
+        public string ProductDescription { get; set; }
+
+        public Order Order { get; set; }
     }
 }
