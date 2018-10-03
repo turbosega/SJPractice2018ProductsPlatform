@@ -21,11 +21,25 @@ namespace DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+            modelBuilder.Entity<User>()
+                .HasAlternateKey(c => c.Email)
+                .HasName("AlternateKey_Email");
+
+            modelBuilder.Entity<Order>()
+                .Property(p => p.OrderDate)
+                .HasDefaultValueSql("SYSUTCDATETIME()");
+
+            modelBuilder.Entity<User>()
+                .Property(p => p.RegisteredAt)
+                .HasDefaultValueSql("SYSUTCDATETIME()");
+                
+
             //default delete behaviour is cascade which is not wanted
-            /*foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
+            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
             {
                 relationship.DeleteBehavior = DeleteBehavior.Restrict;
-            }*/
+            }
 
             base.OnModelCreating(modelBuilder);
         }
