@@ -1,0 +1,22 @@
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.deps.json
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.runtimeconfig.json
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.runtimeconfig.dev.json
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.dll
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.csprojAssemblyReference.cache
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.csproj.CoreCompileInputs.cache
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.AssemblyInfoInputs.cache
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.AssemblyInfo.cs
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.pdb
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.dll
+D:\MS VS 17\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.pdb
+D:\Projects\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.deps.json
+D:\Projects\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.runtimeconfig.json
+D:\Projects\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.runtimeconfig.dev.json
+D:\Projects\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.dll
+D:\Projects\API Store\StoreAPI\StoreAPI\bin\Debug\netcoreapp2.0\StoreAPI.pdb
+D:\Projects\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.csprojAssemblyReference.cache
+D:\Projects\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.csproj.CoreCompileInputs.cache
+D:\Projects\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.AssemblyInfoInputs.cache
+D:\Projects\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.AssemblyInfo.cs
+D:\Projects\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.dll
+D:\Projects\API Store\StoreAPI\StoreAPI\obj\Debug\netcoreapp2.0\StoreAPI.pdb
